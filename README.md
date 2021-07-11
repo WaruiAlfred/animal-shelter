@@ -1,8 +1,8 @@
-# My pet
-#### It displays people's pets., JUly 6,2021
+# Animal shelter
+#### It displays pets which are offered for adoption., JUly 11,2021
 #### By **Alfred Warui**
 ## 
-This page describes my pet.A black dog which was born on March 3,2017.He is surely man's best friend.
+This page displays all kinds of pets available for adoption.
 ## Setup/Installation Requirements:
 * Ubuntu Operating System
 * Stable internet connection
